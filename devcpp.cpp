@@ -16,4 +16,5 @@ int main(){
 	} else {
 		printf("Not Eligible for Interview");
 	}
+	return 0;
 }
